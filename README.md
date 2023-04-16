@@ -3,6 +3,11 @@
 ### APPEND, MODIFY, DELETE
 
 :pen: Practice with append, delete, modify
+
+:pen: Practice with inner join method
+
 :pen: Choose different radio button and display tables
+
 :pen: Control display with error messages
+
 :pen: Practice with split method

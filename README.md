@@ -2,12 +2,12 @@
 ### TABLES EKKO, EKPO, EKES
 ### APPEND, MODIFY, DELETE
 
-:pen: Practice with append, delete, modify
+:pen: Practice with append, delete, modify methods
 
 :pen: Practice with inner join method
 
-:pen: Choose different radio button and display tables
+:pen: Choose different radio buttons and display tables
 
-:pen: Control display with error messages
+:pen: Control displaying tables with error messages
 
-:pen: Practice with split method
+:pen: Practicing with split method
